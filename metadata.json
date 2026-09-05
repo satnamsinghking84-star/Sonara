@@ -1,0 +1,6 @@
+{
+  "name": "Sonora Studio — Voice to Video Editor",
+  "description": "A browser-based studio to turn voice tracks, captions, and visuals into polished WebM video stories with AI script generation.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
